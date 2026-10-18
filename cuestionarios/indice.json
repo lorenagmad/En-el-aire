@@ -9,7 +9,21 @@
     "preguntas": 13,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b1s2.bin",
@@ -21,7 +35,21 @@
     "preguntas": 6,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b1s3.bin",
@@ -33,7 +61,21 @@
     "preguntas": 8,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b1s4.bin",
@@ -45,7 +87,21 @@
     "preguntas": 7,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "eg1.bin",
@@ -57,7 +113,21 @@
     "preguntas": 17,
     "video": false,
     "global": true,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b2s1.bin",
@@ -69,7 +139,21 @@
     "preguntas": 5,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b2s2.bin",
@@ -81,7 +165,21 @@
     "preguntas": 14,
     "video": true,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b2s3.bin",
@@ -93,7 +191,21 @@
     "preguntas": 8,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "eg2.bin",
@@ -105,7 +217,21 @@
     "preguntas": 16,
     "video": true,
     "global": true,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b3s1.bin",
@@ -117,7 +243,21 @@
     "preguntas": 11,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b3s2.bin",
@@ -129,7 +269,21 @@
     "preguntas": 7,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "b3s3.bin",
@@ -141,7 +295,21 @@
     "preguntas": 11,
     "video": false,
     "global": false,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   },
   {
     "archivo": "eg3.bin",
@@ -153,6 +321,46 @@
     "preguntas": 17,
     "video": true,
     "global": true,
-    "activo": true
+    "activo": true,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
+  },
+  {
+    "archivo": "demo.bin",
+    "id": "demostracion",
+    "titulo": "Demostración",
+    "bloque": "Demostración",
+    "nombre": "Tipos de pregunta",
+    "descripcion": "Opción múltiple con explicación, emparejar, ordenar, respuesta corta y señalar en imagen",
+    "preguntas": 5,
+    "video": false,
+    "global": false,
+    "activo": false,
+    "analisis": false,
+    "practica": false,
+    "ajustes": {
+      "tiempos": {
+        "opcion_multiple": 20,
+        "verdadero_falso": 15,
+        "emparejar": 45,
+        "ordenar": 45,
+        "respuesta_corta": 30,
+        "imagen": 25
+      },
+      "puntos_max": 1000,
+      "puntos_min": 500
+    }
   }
 ]
