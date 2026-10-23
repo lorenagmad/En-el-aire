@@ -6,4 +6,6 @@ Al final de cada sesión, el alumnado responde un cuestionario con formato de co
 
 Los cuestionarios están cifrados: solo se pueden abrir con la contraseña que la profesora facilita en clase.
 
-© 2026. Todos los derechos reservados. Las imágenes y los vídeos de los cuestionarios pertenecen a sus respectivos titulares y se usan con fines exclusivamente docentes.
+## Licencia
+
+El código (`index.html`) es software libre con licencia **GNU Affero General Public License v3.0** ([LICENSE](LICENSE)). Los cuestionarios de la carpeta `cuestionarios` son material docente de la asignatura y no están incluidos en esa licencia; las imágenes y los vídeos que contienen pertenecen a sus respectivos titulares y se usan con fines exclusivamente docentes.
